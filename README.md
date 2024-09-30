@@ -1,7 +1,17 @@
-# Complex Authentication System
+# Complex Authentication System ui management
 ## Project Overview
 
 This project is a full-featured **Authentication System** designed to manage user registration, login, and secure authentication flows. It includes several key technologies for client-side validation, routing, form handling, and server-side communication with Appwrite for backend services. The system supports both session management and security using **JWT tokens** (access and refresh tokens) with robust form validation and responsive UI.
+
+---
+
+<div align="center">
+
+![image](https://res.cloudinary.com/dsfztnp9x/image/upload/v1727670951/portfolio/deunq5n8ctbgh3pyerbi.png)
+    ![image](https://skillicons.dev/icons?i=appwrite,react,tailwind,typescript)
+</div>
+
+---
 
 ## Key Features
 
